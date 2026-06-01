@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.env
+practice.ipynbpractice.ipynb
+invoice/
+venv/
+__pycache__/
+.env
+practice.ipynb
